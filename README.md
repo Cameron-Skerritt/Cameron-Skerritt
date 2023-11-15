@@ -3,5 +3,5 @@
 </div>
 
 <div align="center">
-  <p> 🎓 Ap3ili &#124; 💻 Cyber Security Student &#124; </p>
+  <p> 🐲 Ap3ili &#124; 💻 Cyber Security Student </p>
 </div>
